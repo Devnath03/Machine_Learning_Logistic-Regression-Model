@@ -1,5 +1,4 @@
 # Logistic Regression Model
-## Simple Description
 This project builds and evaluates a logistic regression model for binary classification using Python. It includes data loading, training, evaluation, and saving the trained model. You can use the Jupyter notebook for interactive analysis or run the main script for automated processing.
 
 ## Overview
